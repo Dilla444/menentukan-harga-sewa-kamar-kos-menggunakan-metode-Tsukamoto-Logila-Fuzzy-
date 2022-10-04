@@ -1,0 +1,1 @@
+# menentukan-harga-sewa-kamar-kos-menggunakan-metode-Tsukamoto-Logila-Fuzzy-
